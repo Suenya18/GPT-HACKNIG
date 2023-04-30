@@ -34,7 +34,8 @@ e colar no chatgpt e enviar que ele fica em modo DAN eu estou usando O prompt da
 
 
 Com isso as maioras das perguntas ou ordens que vc fazer no chat ele vai aceitar 
-eu percebi que o bot esquece que ele é a DAN com passar tempo, então tem vezes que vai ter que fazer novamente o BYPASS
+
+bem eu percebi que o bot esquece que ele é a DAN com passar tempo, então tem vezes que vai ter que fazer novamente o BYPASS
 E tambem eu percebi que as vezes o BYPASS para de funcionar não eu recomendo usar o primeiro BYPASS, ele foi mais que deu certo
 
 # BYPASS CITADO
@@ -99,7 +100,8 @@ Depois da engenharia social for criado você pode modificar adicionando outras c
 
 # AJUDA NO DEVE DE CASA
 
-Agora uma função que ajuda muito, pergunta como fazer ataques em ferramentas hackers e como fazer um tipo de ataque especifico 
+Agora uma função que ajuda muito, pergunta para o chatGPT como fazer ataques em ferramentas hackers ou como fazer um tipo de ataque especifico 
+
 tem vezes que o bot pode barra, bem com isso vem as palavras chaves você se lembra as palavras: ambiente controlado e fins educativos
 com essas palavras sendo usado no final da frase é bem provavel que o chat não te barre logo porque ele vai pensar que esse conteudo vai ser usado em um local controlado
 
@@ -142,7 +144,8 @@ ferramenta que encontra tela de ADM:
 
 # RESULTADO FINAL 
 
-Bem com isso você pode usar para criar varias ferramentas e tambem isso quando você for fazer alguma ferramenta
+Bem com isso você pode usar para criar varias ferramentas 
+
 Esse foi os exemplos de como usar o ChatGTP para o hacking futuramente eu possa atualizar esse projeto com mais pesquisas
 
 
