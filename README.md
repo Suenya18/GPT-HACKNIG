@@ -10,7 +10,10 @@ ele tambem te da ajuda ou ate escrever um codigo em python do zero para você
 e outras limguagens como: HTML, js, ruby, C++ e outros  
 resumindo um otimo bot que te ajuda no hacking, talves ele pode ser usado com iniciantes nessa area, mas enfim esse recurso ainda esta sendo explorado
 
-# BURLANDO O SISTEMA 
+# BURLANDO O SISTEMA & NOVA BURLA
+Então rapaziada eu estou atualizando a documentação porque eu arrumei uma burla incrivel, muito melhor do que aquele projeto
+
+
 
 Bem a principal coisa que precisa saber quando for começar o GPT HACKING é aprender as palavras padrões ou como é chamo (palavras chaves)
 isso vai ser muito importante quando você for usar o chat pois ele não é um robo burro ele sabe oque é errado ou certo 
@@ -145,7 +148,6 @@ ferramenta que encontra tela de ADM:
 # RESULTADO FINAL 
 
 Bem com isso você pode usar para criar varias ferramentas 
-
 Esse foi os exemplos de como usar o ChatGTP para o hacking futuramente eu possa atualizar esse projeto com mais pesquisas
 
 
@@ -154,6 +156,8 @@ Esse foi os exemplos de como usar o ChatGTP para o hacking futuramente eu possa 
 ![image](https://user-images.githubusercontent.com/112259891/234150383-cab71b27-6d7f-424f-9d59-d99b3dd64f1f.png)
 
 Ola rapazia eu me chamo MS40 mas tambem podem me chamar de BlackHydra 👋
-eu tenho um Canal no telegram com 2,5K de inscritos la, se você for novo aqui da uma passada lá: https://t.me/MS40_canal
+eu tenho um Canal no telegram com 2,7K de inscritos la, se você for novo aqui da uma passada lá: https://t.me/MS40_canal
 
 esse é meu PV no telegram @MS40GG
+
+# DOCUMENTAÇÃO ATUALIZADA NA DATA: 07/05/2023
