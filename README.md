@@ -12,7 +12,25 @@ resumindo um otimo bot que te ajuda no hacking, talves ele pode ser usado com in
 
 # BURLANDO O SISTEMA & NOVA BURLA
 Então rapaziada eu estou atualizando a documentação porque eu arrumei uma burla incrivel, muito melhor do que aquele projeto
+mas vc ainda pode usar a burla antiga mas essa é mil vezes melhor
 
+# SOBRE A BURLA 
+A BURLA FOI CRIADA PELO: @davizinmaker021
+DISCORD DELE: https://discord.gg/BQTxkTkrFw
+
+O NOME DA BURLA É PoopGPT💩
+
+# COMO USAR A BURLA
+
+1> ENTRE NO CHATGPT, CLIQUE COM O BOTÃO DIREITO E ENTRA NO INSPECIONAR 
+
+2> FAÇA O DOWNLOAD DO PoopGPT E ENTRE NO ARQUIVO E COPIA TODO O CODIGO QUE ESTA LÁ
+
+3> ENTRE NO (CONSOLE) E COLOQUE O CODIGO QUE VC COPIOU DO ARQUIVO DA BURLA
+
+4> APERTE (ENTER) PARA ENVIAR O COMANDO DEPOIS DISSO ESCOLHA QUAL TIPO DE CHATGPT VC QUER
+
+# SCREENSHOTS
 
 
 Bem a principal coisa que precisa saber quando for começar o GPT HACKING é aprender as palavras padrões ou como é chamo (palavras chaves)
