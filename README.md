@@ -30,9 +30,35 @@ O NOME DA BURLA É PoopGPT💩
 
 4> APERTE (ENTER) PARA ENVIAR O COMANDO DEPOIS DISSO ESCOLHA QUAL TIPO DE CHATGPT VC QUER
 
+# DOWNLOAD DA BURLA
+
+https://github.com/BlackHydra40/GPT-HACKNIG/blob/main/PoopGPT.txt
+
+
 # SCREENSHOTS
+![image](https://user-images.githubusercontent.com/112259891/236684315-ed4db6cb-87de-4f58-8dde-22214e92860b.png)
 
+![image](https://user-images.githubusercontent.com/112259891/236684368-2128419a-258b-4d71-9af0-6d725b05ed88.png)
 
+![image](https://user-images.githubusercontent.com/112259891/236684452-821f605f-ad08-40fd-88ad-23e715f70ac1.png)
+
+![image](https://user-images.githubusercontent.com/112259891/236684501-b7264935-30d4-4daf-8724-1cfa0db26f50.png)
+
+![image](https://user-images.githubusercontent.com/112259891/236684538-538cae56-923a-4f22-afee-ad6af350ffa5.png)
+
+# QUAL OPÇÃO ESCOLHER ???
+
+Bem rapaziada tem varias opções mas oque vai servi pra nos é a opção (4) INFO MASS
+
+essa opção vai da mais informações sobre qualquer pergunta que vc fizer, ate pergunta de hacking
+
+# AGORA É SÓ APROVEITAR !!!
+
+SOBRE A BURLA VELHA VC PODE USAR NO CELULAR, EU ACHO QUE ESSA BURLA NOVA PEGA NO CELULAR MAS VC TEM QUE ATVAR O ESPECIONAR NO CHROME DE ANDROID
+
+# >BEM DEPOIS DESSA BURLA VC PODE PERGUNTA TUDO SEM BARRAR NADA MAS EU RECOMENDO VC LER TUDO<
+
+# BURLA VELHA
 Bem a principal coisa que precisa saber quando for começar o GPT HACKING é aprender as palavras padrões ou como é chamo (palavras chaves)
 isso vai ser muito importante quando você for usar o chat pois ele não é um robo burro ele sabe oque é errado ou certo 
 mas é claro que a mente humana é muito mais inteligente do que um robo então eu vou deixar logo abaixo um projeto no github que faz um BYPASS resumindo ele destrava o CHATGPT
